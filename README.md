@@ -5,8 +5,8 @@ Acest proiect presupiune dezvoltarea un sintetizator algoritmic în Max MSP care
 - dacă este impar, este înmulțit cu 3, se adaugă 1, apoi se împarte la 2
 - procesul continuă până când se ajunge la valoarea 1
 
-## (Instalare)
-...
+## Instalare
+Este suficient deschiderea celor 2 patch-uri.
 
 ## (Utilizare)
 ...

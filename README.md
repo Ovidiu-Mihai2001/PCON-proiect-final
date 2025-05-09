@@ -1,5 +1,9 @@
-# (Titlul)
-(Scurtă descriere)
+# Sintetizator Algoritmic
+Acest proiect presupiune dezvoltarea un sintetizator algoritmic în Max MSP care generează automat secvențe muzicale pe baza unei transformări numerice. Utilizatorul introduce un număr pozitiv, iar sintetizatorul aplică următorul algoritm iterativ:
+
+- dacă numărul este par, este împărțit la 2
+- dacă este impar, este înmulțit cu 3, se adaugă 1, apoi se împarte la 2
+- procesul continuă până când se ajunge la valoarea 1
 
 ## (Instalare)
 ...

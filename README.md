@@ -5,6 +5,8 @@ Acest proiect presupiune dezvoltarea un sintetizator algoritmic în Max MSP care
 - dacă este impar, este înmulțit cu 3, se adaugă 1, apoi se împarte la 2
 - procesul continuă până când se ajunge la valoarea 1
 
+Opțional, se poate alege ca notele generate să fie cuantizate într-o gamă muzicală la legere (de exemplu Do Major, La minor etc...), sau se poate lăsa sintetizatorul să genereze notele liber, fără restricții.
+
 ## Instalare
 Este suficient deschiderea celor 2 patch-uri.
 

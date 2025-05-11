@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 37.0, 77.0, 1849.0, 921.0 ],
+		"rect" : [ 198.0, 124.0, 1425.0, 794.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -442,7 +442,6 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-117",
-					"int" : 1,
 					"maxclass" : "gswitch",
 					"numinlets" : 3,
 					"numoutlets" : 1,
@@ -1385,6 +1384,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 692.0, 839.0, 35.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "out 2"
 				}
 
@@ -1396,6 +1399,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 603.0, 839.0, 35.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"attr_comment" : ""
+					}
+,
 					"text" : "out 1"
 				}
 
@@ -2309,7 +2316,7 @@
 
 			}
  ],
-		"originid" : "pat-410",
+		"originid" : "pat-10",
 		"dependency_cache" : [  ],
 		"autosave" : 0
 	}

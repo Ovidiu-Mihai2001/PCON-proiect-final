@@ -1,32 +1,34 @@
 # Sintetizator Algoritmic
 Acest proiect presupiune dezvoltarea un sintetizator algoritmic în Max MSP care generează automat secvențe muzicale pe baza unei transformări numerice. Utilizatorul introduce un număr pozitiv, iar sintetizatorul aplică următorul algoritm iterativ:
 
-- dacă numărul este par, este împărțit la 2
-- dacă este impar, este înmulțit cu 3, se adaugă 1, apoi se împarte la 2
-- procesul continuă până când se ajunge la valoarea 1
+- dacă numărul este par, este împărțit la 2;
+- dacă este impar, este înmulțit cu 3, se adaugă 1, apoi se împarte la 2;
+- procesul continuă până când se ajunge la valoarea 1.
 
 Opțional, se poate alege ca notele generate să fie cuantizate într-o gamă muzicală la legere (de exemplu Do Major, La minor etc...), sau se poate lăsa sintetizatorul să genereze notele liber, fără restricții.
 
 ## Instalare
 Cerințe sistem:
-- MAX/MSP versiunea 8 sau mai recentă (recomandat MAX 8.5+)
-- Opțional, MDID controller
+- MAX/MSP versiunea 8 sau mai recentă (recomandat MAX 8.5+);
+- Opțional, MDID controller.
 
 Descărcare și organizare fișiere
-- Creează un folder dedicat, de exemplu: Proiect_MAX
-- Copiază toate fișierele .maxpat în acel folder
+- Creează un folder dedicat, de exemplu: Proiect_MAX;
+- Copiază toate fișierele .maxpat în acel folder.
 
 ## (Utilizare)
 Lansare și rulare:
-- Deschide MAX/MSP
-- Deschide mai întâi patch-ul ProiectMax_Algoritm.maxpat
-- Deschide patch-ul ProiectMax_MIDI.maxpat
-- Patch-urile vor comunica între ele prin obiecte send/receive, poly~, sau noteout/notein
+- Deschide MAX/MSP;
+- Deschide mai întâi patch-ul ProiectMax_Algoritm.maxpat;
+- Deschide patch-ul ProiectMax_MIDI.maxpat;
+- Patch-urile vor comunica între ele prin obiecte send/receive, poly~, sau noteout/notein.
+
+![alt text](Schema.jpg)
 
 Redare și interacțiune:
-- Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale
-- Setează tempo-ul introducând o valoare în numărul conectat la [metro]
-- Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat
+- Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale;
+- Setează tempo-ul introducând o valoare în numărul conectat la [metro];
+- Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat.
 
 ## (Istoric)
 

@@ -23,7 +23,7 @@ Lansare și rulare:
 - Deschide patch-ul ProiectMax_MIDI.maxpat;
 - Patch-urile vor comunica între ele prin obiecte send/receive, poly~, sau noteout/notein.
 
-![alt text](Schema.jpg)
+![](Schema.jpg)
 
 Redare și interacțiune:
 - Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale;

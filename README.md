@@ -29,7 +29,8 @@ Lansare și rulare:
 Redare și interacțiune:
 - Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale;
 - Setează tempo-ul introducând o valoare în numărul conectat la [metro];
-- Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat.
+- Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat;
+- De asemenea, se poate folosi switch-ul pentru a comuta între genarea de note pe baza unei game muzicale sau făra gamă muzicală (notele vor fi generate doar in funcție de lagoritm).
 
 ![](presentation.jpg)
 

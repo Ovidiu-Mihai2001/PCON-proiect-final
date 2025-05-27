@@ -8,16 +8,31 @@ Acest proiect presupiune dezvoltarea un sintetizator algoritmic în Max MSP care
 Opțional, se poate alege ca notele generate să fie cuantizate într-o gamă muzicală la legere (de exemplu Do Major, La minor etc...), sau se poate lăsa sintetizatorul să genereze notele liber, fără restricții.
 
 ## Instalare
-Este suficient deschiderea celor 2 patch-uri.
+Cerințe sistem:
+- MAX/MSP versiunea 8 sau mai recentă (recomandat MAX 8.5+)
+- Opțional, MDID controller
+
+Descărcare și organizare fișiere
+- Creează un folder dedicat, de exemplu: Proiect_MAX
+- Copiază toate fișierele .maxpat în acel folder
 
 ## (Utilizare)
-...
+Lansare și rulare:
+- Deschide MAX/MSP
+- Deschide mai întâi patch-ul ProiectMax_Algoritm.maxpat
+- Deschide patch-ul ProiectMax_MIDI.maxpat
+- Patch-urile vor comunica între ele prin obiecte send/receive, poly~, sau noteout/notein
+
+Redare și interacțiune:
+- Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale
+- Setează tempo-ul introducând o valoare în numărul conectat la [metro]
+- Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat
 
 ## (Istoric)
 
-(13.05) ...
+(15.05) Implementarea algoritmului de genarare a notelor muzicale.
 
-(3.06) ...
+(27.05) Adaugarea posibilității de generare pe anumite game muzicale la alegere, crearea unei interfețe usor de utilizat(Presentation Mode).
 
 (X.06) ...
 

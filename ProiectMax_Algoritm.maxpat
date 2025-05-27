@@ -21,6 +21,8 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 249.5, 104.0, 63.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 294.530130922794342, 508.0, 63.0, 22.0 ],
 					"text" : "metro 150"
 				}
 
@@ -1253,10 +1255,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 692.771109938621521, 942.168709516525269, 35.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "out 2"
 				}
 
@@ -1268,10 +1266,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 603.614480137825012, 942.168709516525269, 35.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "out 1"
 				}
 

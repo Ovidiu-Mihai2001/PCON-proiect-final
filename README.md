@@ -24,11 +24,15 @@ Lansare și rulare:
 - Patch-urile vor comunica între ele prin obiecte send/receive, poly~, sau noteout/notein.
 
 ![](Schema.jpg)
+![](MIDI.jpg)
 
 Redare și interacțiune:
 - Selectează o gamă apăsând pe unul dintre butoanele gamei muzicale;
 - Setează tempo-ul introducând o valoare în numărul conectat la [metro];
 - Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat.
+
+![](presentation.jpg)
+![](midi__presentation.jpg)
 
 ## (Istoric)
 

@@ -32,7 +32,6 @@ Redare și interacțiune:
 - Folosește claviatura virtuală (kslider) sau un controller MIDI extern pentru a genera note pe baza algoritmului implementat.
 
 ![](presentation.jpg)
-![](midi_presentation.jpg)
 
 ## (Istoric)
 

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1852.0, 921.0 ],
+		"rect" : [ 674.0, 152.0, 1244.0, 767.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -1010,92 +1010,8 @@
 , 			{
 				"box" : 				{
 					"coll_data" : 					{
-						"count" : 21,
-						"data" : [ 							{
-								"key" : 1,
-								"value" : [ 58 ]
-							}
-, 							{
-								"key" : 2,
-								"value" : [ 60 ]
-							}
-, 							{
-								"key" : 3,
-								"value" : [ 61 ]
-							}
-, 							{
-								"key" : 4,
-								"value" : [ 63 ]
-							}
-, 							{
-								"key" : 5,
-								"value" : [ 65 ]
-							}
-, 							{
-								"key" : 6,
-								"value" : [ 66 ]
-							}
-, 							{
-								"key" : 7,
-								"value" : [ 68 ]
-							}
-, 							{
-								"key" : 8,
-								"value" : [ 70 ]
-							}
-, 							{
-								"key" : 9,
-								"value" : [ 72 ]
-							}
-, 							{
-								"key" : 10,
-								"value" : [ 73 ]
-							}
-, 							{
-								"key" : 11,
-								"value" : [ 75 ]
-							}
-, 							{
-								"key" : 12,
-								"value" : [ 77 ]
-							}
-, 							{
-								"key" : 13,
-								"value" : [ 78 ]
-							}
-, 							{
-								"key" : 14,
-								"value" : [ 80 ]
-							}
-, 							{
-								"key" : 15,
-								"value" : [ 82 ]
-							}
-, 							{
-								"key" : 16,
-								"value" : [ 84 ]
-							}
-, 							{
-								"key" : 17,
-								"value" : [ 85 ]
-							}
-, 							{
-								"key" : 18,
-								"value" : [ 87 ]
-							}
-, 							{
-								"key" : 19,
-								"value" : [ 89 ]
-							}
-, 							{
-								"key" : 20,
-								"value" : [ 90 ]
-							}
-, 							{
-								"key" : 21,
-								"value" : [ 92 ]
-							}
- ]
+						"count" : 0,
+						"data" : [  ]
 					}
 ,
 					"id" : "obj-1",
@@ -1253,10 +1169,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 644.0, 900.0, 35.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "out 2"
 				}
 
@@ -1268,10 +1180,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 555.0, 900.0, 35.0, 22.0 ],
-					"saved_object_attributes" : 					{
-						"attr_comment" : ""
-					}
-,
 					"text" : "out 1"
 				}
 

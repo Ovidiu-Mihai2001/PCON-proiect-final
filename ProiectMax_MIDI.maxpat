@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1852.0, 921.0 ],
+		"rect" : [ 65.0, 87.0, 1852.0, 921.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -276,10 +276,10 @@
 
 			}
  ],
-		"originid" : "pat-42",
+		"originid" : "pat-10",
 		"dependency_cache" : [ 			{
 				"name" : "ProiectMax_Algoritm.maxpat",
-				"bootpath" : "~/Desktop",
+				"bootpath" : "~/Documents/GitHub/PCON-proiect-final",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
